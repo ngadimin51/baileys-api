@@ -1,4 +1,6 @@
 {
+  "name": "baileys-api",
+  "packageManager": "yarn@3.3.1",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.0",
@@ -25,7 +27,6 @@
     "winston-daily-rotate-file": "^4.7.1",
     "ws": "^8.8.1"
   },
-  "name": "baileys-api",
   "version": "1.0.0",
   "description": "Whatsapp remote API multi device, multi instance. Based on baileys. Wanna more support contact me https://caket.org ||  https://ndalu.id",
   "main": "index.js",
